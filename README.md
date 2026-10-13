@@ -63,7 +63,7 @@ The report does not claim that philosophical similarity establishes computationa
 
 ## Author and Version
 
-* Author: CY
+* Author: 崔杨
 * Report version: Formal Edition 1.0
 * Report date: September 16, 2026
 * Language: Chinese
