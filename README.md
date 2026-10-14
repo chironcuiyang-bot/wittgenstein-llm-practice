@@ -4,7 +4,7 @@
 
 A cross-disciplinary research report on language philosophy, large language models, practice-centered AI architecture, and testable engineering hypotheses.
 
-[Read the full report](./index.html) · [中文版项目说明（待完善）](#项目简介) · [反馈与讨论](../../issues)
+[Read the full report](./index.html) · [中文版项目说明](#README_CN.md) · [反馈与讨论](../../issues)
 
 ## Project Overview
 
